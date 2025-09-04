@@ -1,0 +1,14 @@
+{
+  "name": "Example Token",
+  "symbol": "EXMPL",
+  "description": "A demonstration Solana token with metadata enabled.",
+  "image": "https://raw.githubusercontent.com/<your-username>/my-token-metadata/main/logo.png",
+  "attributes": [
+    { "trait_type": "Project", "value": "Demo" },
+    { "trait_type": "Use Case", "value": "Testing" }
+  ],
+  "extensions": {
+    "website": "https://example.com",
+    "twitter": "https://twitter.com/example"
+  }
+}
