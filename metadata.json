@@ -2,7 +2,7 @@
   "name": "Example Token",
   "symbol": "EXMPL",
   "description": "A demonstration Solana token with metadata enabled.",
-  "image": "https://raw.githubusercontent.com/dannylincs/my-token-metadata/main/bg2.png",
+  "image": "https://github.com/dannylincs/metadata/blob/main/bg2.jpeg?raw=true",
   "attributes": [
     { "trait_type": "Project", "value": "Demo" },
     { "trait_type": "Use Case", "value": "Testing" }
